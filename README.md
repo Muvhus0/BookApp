@@ -43,12 +43,15 @@ Save Books: Users can save books to their favorites list for quick access later.
 Favorites Management: Easily add or remove books from the favorites list.
 
 
-License
+# License
+
 This project is licensed under the MIT License. For more details, see the LICENSE file.
 
 
-Contact
+# Contact
+
 For any questions, feedback, or inquiries, please reach out to us at muvhuso2018@outlook.com.
+
 
 
 Thank you for checking out the BookApp demo! We hope this project inspires you to create innovative solutions for your university community. Happy coding! 📚
